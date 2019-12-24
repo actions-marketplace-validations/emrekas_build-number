@@ -1,4 +1,4 @@
-name: 'Build Number Generator'
+name: 'Nuget Build Number Generator'
 description: 'Generate sequential build numbers for workflow runs'
 author: 'Yunus Emre KAS'
 runs:
