@@ -1,6 +1,6 @@
 name: 'Nuget Build Number Generator'
 description: 'Generate sequential build numbers for workflow runs'
-author: 'Yunus Emre KAS'
+author: 'Einar Egilsson'
 runs:
   using: 'node12'
   main: 'main.js'
